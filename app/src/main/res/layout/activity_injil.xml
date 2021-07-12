@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_c">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:background="@drawable/background_c"
+        >
+
+        <TextView
+            android:id="@id/igahmad"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:text="Kitab Injil"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="117dp"
+            android:layout_below="@+id/igahmad"
+            android:layout_marginTop="10dp"
+            android:contentDescription="Injil"
+            android:src="@drawable/injil" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="359dp"
+            android:layout_below="@id/imageView"
+            android:layout_marginTop="-59dp"
+            android:gravity="center"
+            android:padding="40dp"
+            android:text="@string/p_injil"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+</LinearLayout>

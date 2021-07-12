@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS-islamisayed</string>
+    <string name="p_quran">Kitab suci Al Quran adalah sebuah kitab yang telah diturunkan kepada Nabi Muhammad s.a.w. Al Quran diturunkan dalam bahasa Arab. Di dalam Al Quran mengandungi hukum-hukum serta peraturan yang lengkap meliputi seluruh aspek kehidupan manusia, sama ada untuk mencapai kemakmuran hidup di dunia mahupun untuk kebahagiaan hidup di akhirat. Ajaran yang disampaikan di dalam Al Quran sesuai untuk seluruh umat manusia dipermukaan bumi ini tidak kira bangsa dan keturunannya. Ajaran yang termuat di dalam Al Quran lengkap dan sempurna, ia tidak akan berubah dan kekal selama-lamanya bahkan ia tetap dipelihara oleh Allah s.w.t.</string>
+    <string name="p_taurat">Kitab Taurat telah diturunkan oleh Allah s.w.t. kepada Nabi Musa a.s. dalam bahasa Ibrani. Dalam Kitab Taurat ini terkandung hukum syarak dan keyakinan yang betul. Ia juga menerangkan bahawa seorang nabi akhir zaman (Muhammad s.a.w.) akan lahir dari keturunan Nabi Ismail a.s. Kitab Taurat yang asli tidak ditemui lagi pada masa sekarang kerana isinya telah ditokok tambah oleh orang-orang yahudi.</string>
+    <string name="p_injil">Kitab Injil diturunkan oleh Allah s.w.t. kepada Nabi Isa a.s. dalam bahasa Suryani. Diantara kandungannya yang utama ialah menyeru umat manusia agar mengEsakan Allah s.w.t. Kitab Injil juga memberitakan akan kelahiran seorang nabi dan rasul diakhir zaman iaitu Nabi Muhammad s.a.w. Orang-orang Yahudi telah mengingkari akan kebenaran Allah s.w.t. Mereka telah menghimpunkan kitab-kitab ini menjadi satu yang diberi nama “bible” kemudian mereka ubah isi kandungannya mengikut kehendak hati mereka agar berkesesuaian dengan kehidupan mereka seharian. Bible ini terbahagi kepada dua bahagian besar. Pertama bahagian Taurat yang dinamakan dengan Perjanjian Lama (Old Testament). Kedua bahagia Injil yang dinamakan dengan Perjanjian baru (New Testament).</string>
+    <string name="p_zabur">Kitab Zabur telah diturunkan oleh Allah s.w.t. kepada Nabi Daud a.s. dalam bahasa Qibthi. Kitab Zabur tidak mengandungi hukum perundangan. Kandungannya hanya mengenai perkhabaran, cerita, zikir, doa serta hikmah-hikmah. Oleh sebab itu Nabi Daud tidak mempunyai syariat tersendiri, ia dan umatnya hanya mengikut syariat yang dibawa oleh Nabi Musa.</string>
+    <string name="creator">Sayed Omas Tutus Arifta</string>
+    <string name="zabur">Zabur</string>
+    <string name="quran">Al-Quran</string>
+    <string name="taurat">Taurat</string>
+    <string name="injil">Injil</string>
+    <string name="judul">Mengenal Kitab-Kitab Allah</string>
+</resources>
